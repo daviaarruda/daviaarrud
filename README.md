@@ -7,7 +7,9 @@
 Aqui estão algumas idéias para você começar:
 
 🌱 Atualmente estou aprendendo Ciências da Computação, com foco em algoritmos, estruturas de dados e desenvolvimento web.
+
 👯 Estou procurando colaborar em projetos de código aberto, desenvolvimento de aplicativos ou iniciativas que envolvam machine learning.
+
 🤔 Estou procurando ajuda com melhorar minhas habilidades em frameworks de backend, como Django, e entender mais sobre arquitetura de software.
 
 E codo nas seguintes áreas:
