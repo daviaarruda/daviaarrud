@@ -4,7 +4,7 @@
 <! --
 **daviaarruda/daviaarrud** é um repositório  aparece em meu perfil GitHub.
 
-Aqui estão algumas idéias para você começar:
+
 
 🌱 Atualmente estou aprendendo Ciências da Computação, com foco em algoritmos, estruturas de dados e desenvolvimento web.
 
