@@ -2,7 +2,7 @@
 ## Olá pessoal 👋
 
 <! --
-**daviaarruda/daviaarrud** é um repositório  aparece em seu perfil GitHub.
+**daviaarruda/daviaarrud** é um repositório  aparece em meu perfil GitHub.
 
 Aqui estão algumas idéias para você começar:
 
